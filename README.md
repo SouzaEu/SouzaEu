@@ -37,7 +37,7 @@ Aqui estão alguns dos meus projetos em andamento:
 ### 📂 Portfólio
 - [Confira meu portfólio aqui](https://portifolio-souzavw.vercel.app/)
 
-### 📱 Me Conecte
+### 📱 Contatos
 - [Instagram](https://www.instagram.com/vsouza.eu/)
 - [GitHub](https://github.com/SouzaEu)
 - [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-souza-devjr/)
