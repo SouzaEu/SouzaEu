@@ -1,45 +1,44 @@
 # Hello World! 👋
 
-Meu nome é Vinícius Souza, e sou desenvolvedor back-end.
+My name is Vinícius Souza, and I'm a back-end developer.
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Consagre ao Senhor tudo o que você faz, e os seus planos serão bem-sucedidos.❞ - Provérbios 16:3</i>
+<i>❝Commit to the Lord whatever you do, and your plans will succeed.❞ - Proverbs 16:3</i>
 <!--ENDS_HERE_QUOTE_README-->
-
-
-Atualmente, estudo na FIAP, buscando um diploma em Análise e Desenvolvimento de Sistemas. Tenho um portfólio mostrando meus projetos enquanto embarco na jornada para conquistar minha primeira oportunidade na indústria de tecnologia. Minha língua nativa é o português, e também estou estudando inglês.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
-### Sobre Minhas Habilidades
-- 💻 **Conhecimentos:** HTML, CSS, JavaScript, Git, GitHub.
-- 📚 **Aprendendo:** Java, Node.js e Python.
+Currently, I'm studying at FIAP, pursuing a degree in Analysis and Systems Development. I have a portfolio showcasing my projects as I embark on the journey to secure my first opportunity in the tech industry. My native language is Portuguese, and I'm also studying English (intermediate) and Spanish (basic).
 
-### Projetos (Em Construção)
-Aqui estão alguns dos meus projetos em andamento:
+### About My Skills
+- 💻 **Skills:** HTML, CSS, JavaScript, Git, GitHub, Python
+- 📚 **Learning:** Java, Node.js
 
-1. **Calculadora**
-   - Descrição: Uma aplicação simples de calculadora.
-   - Repositório: [Calculadora](https://github.com/SouzaEu/calculadora)
+### Projects (Under Construction)
+Here are some of my ongoing projects:
 
-2. **Página de Login**
-   - Descrição: Implementação básica de uma página de login.
-   - Repositório: [Página de Login (Em Construção)](https://github.com/SouzaEu/login-page)
+1. **Calculator**
+   - Description: A simple calculator application.
+   - Repository: [Calculator](https://github.com/SouzaEu/calculadora)
 
-### 📱 Contato
+2. **Login Page**
+   - Description: Basic implementation of a login page.
+   - Repository: [Login Page (Under Construction)](https://github.com/SouzaEu/login-page)
+
+### 📱 Contact
 - Email: vinisouzacntt@gmail.com
 
-### 🗣 Idiomas
-- Português (nativo)
-- Inglês (intermediário)
-- Espanhol (básico)
+### 🗣 Languages
+- Portuguese (native)
+- English (intermediate)
+- Spanish (basic)
 
-### 📂 Portfólio
-- [Confira meu portfólio aqui](https://portifolio-souzavw.vercel.app/)
+### 📂 Portfolio
+- [Check out my portfolio here](https://portifolio-souzavw.vercel.app/)
 
-### 📱 Contatos
+### 📱 Connect with Me
 - [Instagram](https://www.instagram.com/vsouza.eu/)
 - [GitHub](https://github.com/SouzaEu)
 - [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-souza-devjr/)
 
-Sinta-se à vontade para explorar esses projetos e fornecer qualquer feedback ou sugestões! 🚀
+Feel free to explore these projects and provide any feedback or suggestions! 🚀
