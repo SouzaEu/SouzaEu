@@ -7,13 +7,13 @@ My name is Vinícius Souza, and I'm a back-end developer.
 <!--ENDS_HERE_QUOTE_README-->
 
 
-Currently, I'm studying at FIAP, pursuing a degree in Analysis and Systems Development. I have a portfolio showcasing my projects as I embark on the journey to secure my first opportunity in the tech industry. My native language is Portuguese, and I'm also studying English (intermediate).
+Currently, I'm studying at FIAP, pursuing a degree in Analysis and Systems Development. I have a portfolio showcasing my projects as I embark on the journey to secure my first opportunity in the tech industry. My native language is Portuguese, and I'm also studying English.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 ### About My Skills
-- 💻 **Skills:** HTML, CSS, JavaScript, Git, GitHub, Python
-- 📚 **Learning:** Java, Node.js
+- 💻 **Skills:** HTML, CSS, JavaScript, Git and GitHub
+- 📚 **Learning:** Java, Node.js and Python
 
 ### Projects (Under Construction)
 Here are some of my ongoing projects:
