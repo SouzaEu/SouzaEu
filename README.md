@@ -12,7 +12,7 @@ My name is Vinícius Souza, and I'm a back-end developer.
 - 💻 **Skills:** HTML, CSS, JavaScript, Git and GitHub
 - 📚 **Learning:** Java, Node.js and Python
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)
 
 ### Projects (Under Construction)
 Here are some of my ongoing projects:
