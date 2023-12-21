@@ -15,6 +15,8 @@ Currently, I'm studying at FIAP, pursuing a degree in Analysis and Systems Devel
 - 💻 **Skills:** HTML, CSS, JavaScript, Git and GitHub
 - 📚 **Learning:** Java, Node.js and Python
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Projects (Under Construction)
 Here are some of my ongoing projects:
 
@@ -25,6 +27,10 @@ Here are some of my ongoing projects:
 2. **Login Page**
    - Description: Basic implementation of a login page.
    - Repository: [Login Page (Under Construction)](https://github.com/SouzaEu/login-page)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaeu&show_icons=true&theme=transparent)
 
 ### 📱 Contact
 - Email: vinisouzacntt@gmail.com
