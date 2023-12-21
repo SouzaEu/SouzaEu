@@ -6,9 +6,6 @@ My name is Vinícius Souza, and I'm a back-end developer.
 <i>❝Commit to the Lord whatever you do, and your plans will succeed.❞ - Proverbs 16:3</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-
-Currently, I'm studying at FIAP, pursuing a degree in Analysis and Systems Development. I have a portfolio showcasing my projects as I embark on the journey to secure my first opportunity in the tech industry. 
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
 ### About My Skills
