@@ -15,7 +15,7 @@ Currently, I'm studying at FIAP, pursuing a degree in Analysis and Systems Devel
 - 💻 **Skills:** HTML, CSS, JavaScript, Git and GitHub
 - 📚 **Learning:** Java, Node.js and Python
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact)
 
 ### Projects (Under Construction)
 Here are some of my ongoing projects:
