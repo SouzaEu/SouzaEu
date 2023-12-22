@@ -46,3 +46,6 @@ Here are some of my ongoing projects:
 - [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-souza-devjr/)
 
 Feel free to explore these projects and provide any feedback or suggestions! 🚀
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
