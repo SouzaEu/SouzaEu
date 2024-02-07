@@ -14,28 +14,7 @@ My name is Vinícius Souza, and I'm a back-end developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)
 
-### Projects (Under Construction)
-Here are some of my ongoing projects:
-
-1. **Calculator**
-   - Description: A simple calculator application.
-   - Repository: [Calculator](https://github.com/SouzaEu/calculadora)
-
-2. **Login Page**
-   - Description: Basic implementation of a login page.
-   - Repository: [Login Page (Under Construction)](https://github.com/SouzaEu/login-page)
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaeu&show_icons=true&theme=transparent)
-
-### 📱 Contact
-- Email: vinisouzacntt@gmail.com
-
-### 🗣 Languages
-- Portuguese (native)
-- English (intermediate)
-- Spanish (basic)
 
 ### 📂 Portfolio
 - [Check out my portfolio here](https://portifolio-souzavw.vercel.app/)
