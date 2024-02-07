@@ -14,16 +14,6 @@ My name is Vinícius Souza, and I'm a back-end developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souzaeu&show_icons=true&theme=transparent)
-
-### 📂 Portfolio
-- [Check out my portfolio here](https://portifolio-souzavw.vercel.app/)
-
-### 📱 Connect with Me
-- [Instagram](https://www.instagram.com/vsouza.eu/)
-- [GitHub](https://github.com/SouzaEu)
-- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-souza-devjr/)
-
 Feel free to explore these projects and provide any feedback or suggestions! 🚀
 
 <div align="center">
