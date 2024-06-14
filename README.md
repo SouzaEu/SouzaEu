@@ -2,9 +2,7 @@
 
 My name is Vinícius Souza, and I'm a back-end developer.
 
-<!--STARTS_HERE_QUOTE_README-->
 <i>❝Commit to the Lord whatever you do, and your plans will succeed.❞ - Proverbs 16:3</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="320" />
 
