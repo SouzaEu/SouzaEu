@@ -8,7 +8,7 @@ My name is Vinícius Souza, and I'm a back-end developer.
 
 ### About My Skills
 - 💻 **Skills:** Java, Python, JavaScript, Oracle, HTML5, CSS3, Git and GitHub.
-- 📚 **Learning:** Java, Spring boot and Hibernate.
+- 📚 **Learning:** Java, Spring boot, Maven and Hibernate.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaeu&layout=compact&theme=dark)
 
