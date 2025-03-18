@@ -19,10 +19,11 @@
   
   ### Estudando no Momento:
   
-  ![Java](https://img.shields.io/badge/-Java-222222?style=for-the-badge&logo=java&labelColor=222222)&nbsp;
-  ![C#](https://img.shields.io/badge/-cSharp-222222?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=222222)&nbsp;
-  ![DEVOPS](https://img.shields.io/badge/-DEVOPS-222222?style=for-the-badge&logo=DEVOPS&labelColor=222222)&nbsp;
-  ![Compliance](https://img.shields.io/badge/-Compliance%20Quality-222222?style=for-the-badge&logo=Compliance&labelColor=222222)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-%235C4EE5.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
