@@ -24,12 +24,6 @@
   ![Hibernate](https://img.shields.io/badge/Hibernate-%235C4EE5.svg?style=for-the-badge&logo=hibernate&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-</div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SouzaEu}/count.svg" /></p> 
-<br></div>
-
 
 <div align="center">  
 <a href="mailto:vinisouzacntt@gmail.com" target="_blank">
